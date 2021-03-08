@@ -17,11 +17,17 @@ Running the sample requires access to the Kyma runtime. There are also other sam
 The sample files can be downloaded and used within the respective user / developer environment, e.g. Python files may be opened and used within a Python Editor. The sample files don't require an installation step for themselves, they are simply downloaded and then opened in the respective editor. Through the dockerfile and the Python script the following Python libraries will be installed: 
 
 Flask == 0.12.2
+
 matplotlib == 3.2.2
+
 numpy == 1.18.5
+
 pandas == 1.0.5
+
 requests == 2.24.0
+
 scikit_learn == 0.23.1
+
 seaborn == 0.10.1
 
 ## Known Issues
