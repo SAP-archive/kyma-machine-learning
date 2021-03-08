@@ -1,0 +1,36 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mlapp
+  labels:
+    app: mlapp
+spec:
+  ports:
+  - name: http
+    port: 8001
+  selector:
+    app: mlapp
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mlapp
+spec:
+  selector:
+    matchLabels:
+      app: mlapp
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: mlapp
+    spec:
+      containers:
+        - image: <YourDockerID>/ml-app-image
+          name: mlapp
+          ports:
+          - containerPort: 8001
+          
+          
