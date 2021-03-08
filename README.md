@@ -1,4 +1,4 @@
-# Hands-on Tutorial: Manage and Deploy Machine Learning mMdels in Kubernetes with SAP BTP, Kyma Runtime.
+# Hands-on Tutorial: Manage and Deploy Machine Learning Models in Kubernetes with SAP BTP, Kyma Runtime.
 
 ## Description
 This Github repository provides the basis material to: 
