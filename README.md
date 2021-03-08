@@ -9,7 +9,6 @@ This Github repository provides the basis material to:
 
 For further resources, go to:
 GitHub: https://github.com/SAP-samples/kyma-runtime-extension-samples
-Open SAP course: open.sap.com/courses/kyma1
 
 ## Requirements
 Running the sample requires access to the Kyma runtime. There are also other sample-specific requirements that you can find in detail in the Hands-On blog post.
