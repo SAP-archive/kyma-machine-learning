@@ -21,8 +21,8 @@ The sample is provided on the "as-is" basis. Currently, there are no known issue
 
 ## How to obtain support
 The sample is provided "as-is". There is no guarantee that raised issues will be answered or addressed in future releases.
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
- 
+
+[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content. 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## License
