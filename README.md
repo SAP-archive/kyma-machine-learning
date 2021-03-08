@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/kyma-machine-learning)](https://api.reuse.software/info/github.com/SAP-samples/kyma-machine-learning)
+
 # Hands-on Tutorial: Manage and Deploy Machine Learning Models in Kubernetes with SAP BTP, Kyma Runtime
 
 ## Description
