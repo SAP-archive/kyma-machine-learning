@@ -1,7 +1,7 @@
 # Hands-on Tutorial: Manage and Deploy Machine Learning Models in Kubernetes with SAP BTP, Kyma Runtime
 
 ## Description
-This Github repository provides the basis material to: 
+This Github repository provides the basis material the Hands On blog, which covers the following main steps: 
 
 1. Create an API endpoint which enables a user to create predictions on the fly with a trained machine learning model.
 2. Containerize the Python script for our app in a Docker Image with all the needed requirements and dependencies.
@@ -11,10 +11,18 @@ For further resources, go to:
 GitHub: https://github.com/SAP-samples/kyma-runtime-extension-samples
 
 ## Requirements
-Running the sample requires access to the Kyma runtime. There are also other sample-specific requirements that you can find in detail in the Hands-On blog post.
+Running the sample requires access to the Kyma runtime. There are also other sample-specific requirements that you can find in detail in the Hands-On blog.
 
 ## Download and Installation
-The sample files can be downloaded and used within the respective user / developer environment, e.g. Python files may be opened and used within a Python Editor. The sample files don't require an installation step for themselves, they are simply downloaded and then opened in the respective editor.
+The sample files can be downloaded and used within the respective user / developer environment, e.g. Python files may be opened and used within a Python Editor. The sample files don't require an installation step for themselves, they are simply downloaded and then opened in the respective editor. Through the dockerfile and the Python script the following Python libraries will be installed: 
+
+Flask == 0.12.2
+matplotlib == 3.2.2
+numpy == 1.18.5
+pandas == 1.0.5
+requests == 2.24.0
+scikit_learn == 0.23.1
+seaborn == 0.10.1
 
 ## Known Issues
 The sample is provided on the "as-is" basis. Currently, there are no known issues for the sample project.
