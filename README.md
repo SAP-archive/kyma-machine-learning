@@ -8,16 +8,16 @@ This Github repository provides the basis material the Hands On blog, which cove
 3. Deploy and manage our container using Kubernetes in Kyma runtime, bringing the opensource world and SAP world together.
 
 For further resources, go to:
-GitHub: https://github.com/SAP-samples/kyma-runtime-extension-samples
+GitHub: [Kyma Runtime Extension Samples](https://github.com/SAP-samples/kyma-runtime-extension-samples)
 
 ## Requirements
 Running the sample requires access to the SAP Business Technology Platform (BTP) Kyma Runtime. There are also other sample-specific requirements that you can find in detail in the Hands-On blog. In summary the following software/editors are required: 
 
-1. Python Editor like Visual Studio: https://visualstudio.microsoft.com/de/vs/features/python/
-2. Kyma Runtime enabled in the SAP BTP Trial: https://www.sap.com/cmp/td/sap-cloud-platform-trial.html
-3. Docker for Windows: https://docs.docker.com/docker-for-windows/install/
-4. Docker Hub Account: https://hub.docker.com/
-5. Command Line Tool like PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1
+1. Python Editor like [Visual Studio](https://visualstudio.microsoft.com/de/vs/features/python/)
+2. Kyma Runtime enabled [in the SAP BTP Trial](https://www.sap.com/cmp/td/sap-cloud-platform-trial.html)
+3. [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+4. [Docker Hub Account](https://hub.docker.com/)
+5. Command Line Tool like [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1)
 
 ## Download and Installation
 The sample files can be downloaded and used within the respective user / developer environment, e.g. Python files may be opened and used within a Python Editor. The sample files don't require an installation step for themselves, they are simply downloaded and then opened in the respective editor. Through the dockerfile and the Python script the following Python libraries will be installed: 
