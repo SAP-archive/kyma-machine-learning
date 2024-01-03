@@ -1,4 +1,7 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/kyma-machine-learning)](https://api.reuse.software/info/github.com/SAP-samples/kyma-machine-learning)
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [SAP Samples](https://github.com/SAP-samples) organization.
 
 # Hands-on Tutorial: Manage and Deploy Machine Learning Models in Kubernetes with SAP BTP, Kyma Runtime
 
